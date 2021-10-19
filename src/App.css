@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.bg{
+    width: 400px;
+    height: 300px;
+}
+.bh:hover{
+    fill: aqua;
+}
 
 .App-logo {
   height: 40vmin;

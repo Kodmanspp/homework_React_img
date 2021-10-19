@@ -1,0 +1,18 @@
+.file-upload{
+    cursor: pointer;
+    display: block;
+    background-color: #5cf;
+    width: 150px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    transition: 0.3s;
+}
+.file-upload:hover{
+    background-color:aqua;
+}
+.file-input{
+    display: none;
+}

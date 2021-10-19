@@ -1,0 +1,28 @@
+.profile-card{
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.avatar-image{
+    height: 400px;
+    width: 300px;
+}
+.name{
+    color: gray;
+    font-size: 18px;
+}
+.job{
+    color: grey;
+    font-size: 18px;
+}
+button{
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 100;
+    font-size: 18px;
+}
